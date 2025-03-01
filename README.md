@@ -1,6 +1,6 @@
 # Chatting App (Java & Socket) 💬
 
-A real-time chat application built using **Java** and **Socket programming**. This project features a client-server architecture that allows two users to exchange messages in real time. 🤖💻
+A real-time chat application built using **Java** and **Socket programming**. This project features a client-server architecture that allows multiple users to exchange messages in real time. 🤖💻
 
 ## Features ✨
 
