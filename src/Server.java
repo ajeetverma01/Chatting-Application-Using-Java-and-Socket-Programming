@@ -177,7 +177,7 @@ public class Server implements ActionListener {
                 }
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("Exception caught.");
         }
     }
 }
