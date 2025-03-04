@@ -1,5 +1,3 @@
-
-
 import javax.swing.*;
 import javax.swing.border.*;
 import java.awt.*;
@@ -18,7 +16,6 @@ public class Server implements ActionListener {
     static DataOutputStream dout;
 
     Server() {
-
         f.setLayout(null);
 
         JPanel p1 = new JPanel();
